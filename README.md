@@ -16,5 +16,5 @@ The normalized ratio indicating the motor protein density per unit volume.
 The **plot_fig3** script reads normalized intensity data for motor protein distributions under different experimental conditions and compares them with a theoretical prediction. It illustrates:
 
 The normalized steady-state distribution of bound motor proteins for wild-type (WT), UBA1 knockdown, and FBXB-65 knockdown conditions.
-A theoretical curve defined by f(x)=xexp(−x), allowing for direct comparison between experiment and theory.
+A theoretical curve defined by f(x)=x*exp(−x), allowing for direct comparison between experiment and theory.
 Clear labeling and axis formatting to enhance interpretability and publication quality.
