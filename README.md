@@ -1,4 +1,4 @@
-To generate the **figures**, navigate to the scripts/ folder and run the corresponding Python scripts. For example:
+To generate the **figures**, download data, scripts and run the corresponding Python scripts. For example:
 
 python3 plot_fig2.py,
 python3 plot_fig3.py, ...
