@@ -17,4 +17,3 @@ The **plot_fig3** script reads normalized intensity data for motor protein distr
 
 The normalized steady-state distribution of bound motor proteins for wild-type (WT), UBA1 knockdown, and FBXB-65 knockdown conditions.
 A theoretical curve defined by f(x)=x*exp(−x), allowing for direct comparison between experiment and theory.
-Clear labeling and axis formatting to enhance interpretability and publication quality.
