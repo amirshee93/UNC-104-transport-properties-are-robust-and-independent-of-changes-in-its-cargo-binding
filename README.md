@@ -17,6 +17,6 @@ The normalized steady-state distribution of bound motor proteins for wild-type (
 
 -------------------------------------------------------------------------------------------------------------------
 
-The plot_fig4abc script reads raw FRAP recovery data and effective diffusivity measurements from multiple experiments and compares them with theoretical predictions of fluorescence recovery dynamics. It illustrates:
+The **plot_fig4** script reads raw FRAP recovery data and effective diffusivity measurements from multiple experiments and compares them with theoretical predictions of fluorescence recovery dynamics. It illustrates:
 
 The spatial recovery profiles of fluorescence intensity at multiple time points (1 s, 31 s, and 92 s) with overlaid theoretical curves. The temporal evolution of fluorescence recovery at the FRAP center (x=0), with characteristic recovery times t_{1/4} and t_{1/2} clearly indicated. A violin plot comparing effective diffusivities for wild-type (WT), UBA1 knockdown, and FBXB-65 knockdown conditions, allowing for direct comparison between experimental results and theory.
